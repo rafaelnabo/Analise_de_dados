@@ -1,8 +1,8 @@
-# Meu Portfólio de Estudos
+# Meu Portifólio de Estudos
 
 ## Visão Geral
 
-Bem-vindo ao meu portfólio de estudos! Este repositório contém meus projetos e anotações relacionados aos meus estudos em bioquímica e análise de dados. Aqui, você encontrará uma variedade de materiais que demonstram minhas habilidades e conhecimentos adquiridos ao longo dos cursos e projetos.
+Bem-vindo ao meu portifólio de estudos! Este repositório contém meus projetos e anotações relacionados aos meus estudos em bioquímica e análise de dados. Aqui, você encontrará uma variedade de materiais que demonstram minhas habilidades e conhecimentos adquiridos ao longo dos cursos e projetos.
 
 ## Conteúdo
 
@@ -41,7 +41,7 @@ Esta seção demonstra meus primeiros contatos com automação de tarefas online
 
 1. **Clonar o Repositório**:
     ```bash
-    git clone https://github.com/rafaelnabo/Analise_de_dados.git
+    git clone https://github.com/rafaelnabo/Portifolio.git
     cd seu-repositorio
     ```
 
@@ -56,4 +56,4 @@ Se você tiver dúvidas ou quiser discutir algum dos projetos, sinta-se à vonta
 - **Email**: rafahlow@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/rafael-henrique-novo-silva-2180b2209/
 
-Agradeço por visitar meu portfólio!
+Agradeço por visitar meu portifólio!
