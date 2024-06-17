@@ -14,6 +14,10 @@ Nesta seção, você encontrará analise de dados e simulações feitas para o c
 
 Esta seção abrange meus estudos e projetos em análise de dados, realizados durante cursos da DSA, com foco em ferramentas e técnicas utilizadas para manipulação e interpretação de dados.
 
+### _analisys
+
+Nesta seção, você encontrará analise de dados de bancos de dados públicos, onde aplico os conhecimentos obtidos nos estudos de técnicas utilizadas para manipulação e interpretação de dados. 
+
 ### Selenium
 
 Esta seção demonstra meus primeiros contatos com automação de tarefas online e webscraping. Com um extra para a utilização de automação de plataforma android (com ABD Tool).
